@@ -17,4 +17,38 @@
         "description": "Third of three slide",
         "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
     }
+,
+    {
+        "id": "3",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
+    }
+,
+    {
+        "id": "3",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
+    }
+,
+    {
+        "id": "3",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
+    }
+,
+    {
+        "id": "3",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://slidesjs.com/img/example-slide-350-1.jpg"
+    }
 ]
